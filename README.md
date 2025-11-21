@@ -2,7 +2,7 @@
 
 # Milos
 
-Tangerine and Malibu flavored dark theme for Zed. Vibrant, cool, and tailored for writing TypeScript. 
+Tangerine and Duckegg flavored dark theme for Zed. Vibrant, cool, and tailored for writing TypeScript. 
 
 Named after my dog.
 
