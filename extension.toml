@@ -1,0 +1,7 @@
+id = "milos"
+name = "Milos"
+version = "0.0.1"
+schema_version = 1
+authors = ["rob <robhough180@gmail.com>"]
+description = "Vibrant, cool theme for coding. Named after my dog."
+repository = "https://github.com/heymynameisrob/milos-zed-theme"
