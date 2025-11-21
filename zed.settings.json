@@ -49,20 +49,6 @@
     "breadcrumbs": false,
     "quick_actions": false
   },
-  "experimental.theme_overrides": {
-    "terminal.ansi.red": "#ff5f5f",
-    "terminal.ansi.green": "#5fff5f",
-    "terminal.ansi.yellow": "#ffff5f",
-    "terminal.ansi.blue": "#5f5fff",
-    "terminal.ansi.magenta": "#ff5fff",
-    "terminal.ansi.cyan": "#5fffff",
-    "terminal.ansi.bright_red": "#ff5f5f",
-    "terminal.ansi.bright_green": "#5fff5f",
-    "terminal.ansi.bright_yellow": "#ffff5f",
-    "terminal.ansi.bright_blue": "#5f5fff",
-    "terminal.ansi.bright_magenta": "#ff5fff",
-    "terminal.ansi.bright_cyan": "#5fffff"
-  },
 
   "project_panel": {
     "dock": "right",
