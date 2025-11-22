@@ -95,6 +95,15 @@
         "terminal.ansi.bright_white": "#c6c6c8",
         "terminal.ansi.dim_white": "#c6c6c899",
         "link_text.hover": "#009fff",
+        "warning.background": "#ffdc0033",
+        "warning.border": "#ffdc00",
+        "error.background": "#ce2c3133",
+        "error.border": "#dc3e42",
+        "info.background": "#3358d433",
+        "info.border": "#3358d4",
+        "hint.background": "#00857333",
+        "hint.border": "#008573",
+        "hint": "#7c7a85",
         "syntax": {
             "attribute": {
               "color": "#777b84",
